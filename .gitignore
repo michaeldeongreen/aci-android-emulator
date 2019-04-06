@@ -1,2 +1,4 @@
+*.apk
+aci/sshlocal
 sdk
 ./sdk
